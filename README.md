@@ -1,6 +1,7 @@
 # Capstone_Project_Module_2 NYC Taxi and Limousine Commission (TLC) Analysis
 
-🚀 [Dashboard Tableau ](https://public.tableau.com/views/CapstoneProject2UploadedforSubmission/CapstoneProject2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+![image](https://github.com/user-attachments/assets/86de3737-a3a1-4c56-8e26-1d4e1b83a6e0)
+ [Dashboard Tableau ](https://public.tableau.com/views/CapstoneProject2UploadedforSubmission/CapstoneProject2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 

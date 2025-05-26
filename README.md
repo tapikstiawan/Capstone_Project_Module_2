@@ -18,3 +18,16 @@ New York City memiliki sistem transportasi publik yang kompleks dan dinamis. Sal
 # PERIODE ANALISIS
 Januari 2023
 
+# KESIMPULAN
+- Puncak Penjemputan terjadi antara pukul 15:00–18:00 pada weekday, menunjukkan kebutuhan layanan yang tinggi saat pulang kerja.
+- Hari Selasa mencatat penjemputan tertinggi dibanding hari lainnya.
+- Manhattan mendominasi dalam jumlah penjemputan dan total pendapatan.
+- Zona East Harlem North dan South menempati peringkat tertinggi untuk frekuensi pickup dan pendapatan.
+- Rata-rata jarak perjalanan dan total amount per trip relatif stabil, tetapi lebih tinggi pada pagi hari (subuh) dan malam hari.
+
+# SARAN DAN _BUSSINESS INSIGHT_
+*Optimalisasi Armada*: Tambah armada dan pengemudi pada pukul 15:00–18:00 untuk weekday dan pukul 12:00–16:00 saat weekend.
+*Zona Strategis*: Fokus promosi dan alokasi kendaraan di zona East Harlem dan Central Harlem untuk memaksimalkan volume dan pendapatan.
+*Tarif Dinamis*: Pertimbangkan penyesuaian tarif atau insentif pada jam-jam sepi (00:00–05:00) untuk mendorong permintaan.
+*Penjadwalan Shift*: Sesuaikan jadwal kerja pengemudi berdasarkan lonjakan waktu tertentu untuk efisiensi biaya operasional.
+*Pengembangan Aplikasi*: Tawarkan fitur real-time heatmap lokasi padat penumpang sebagai informasi bagi pengemudi dan manajemen.

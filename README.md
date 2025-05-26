@@ -31,3 +31,6 @@ Januari 2023
 
 # DASHBOARD
  [![image](https://github.com/user-attachments/assets/86de3737-a3a1-4c56-8e26-1d4e1b83a6e0)](https://public.tableau.com/views/CapstoneProject2UploadedforSubmission/CapstoneProject2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+ # PRESENTATION
+[Slide Presentasi](https://www.canva.com/design/DAGol_3Iwss/3T8Hk7gyCZgX7YYd3ESrOQ/edit?utm_content=DAGol_3Iwss&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
